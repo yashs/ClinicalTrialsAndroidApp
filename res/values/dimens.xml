@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="proj_banner">24dp</dimen>
+    <dimen name="sjsu_banner_image">36dp</dimen>
+
+</resources>
